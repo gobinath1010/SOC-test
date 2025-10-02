@@ -1,0 +1,11 @@
+# Sample Test File
+
+This file is created for testing purposes.
+
+Please do not use real credentials here.
+
+Example:
+username: test_user
+password: dummy_password123
+
+End of file.
