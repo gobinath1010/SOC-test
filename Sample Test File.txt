@@ -8,4 +8,10 @@ Example:
 username: test_user
 password: dummy_password123
 
-End of file.
+
+soc test 
+
+password 
+
+license
+
